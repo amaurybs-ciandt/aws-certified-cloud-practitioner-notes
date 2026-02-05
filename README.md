@@ -2,4 +2,4 @@
  AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02) 
 
 
- teste
+ teste2
