@@ -1,11 +1,11 @@
 ## Analytics:
-- Amazon Athena: for serverless SQL queries on S3
-- Amazon EMR: for big data processing (Hadoop/Spark)
-- AWS Glue: for ETL and data cataloging
-- Amazon Kinesis
-- Amazon OpenSearch Service
-- Amazon QuickSight
-- Amazon Redshift
+- **Amazon Athena:** for serverless SQL queries on S3
+- **Amazon EMR:** for big data processing (Hadoop/Spark)
+- **AWS Glue:** for ETL and data cataloging
+- **Amazon Kinesis:**
+- **Amazon OpenSearch Service:**
+- **Amazon QuickSight:**
+- **Amazon Redshift:**
 
 ## Integração de aplicações:
 - Amazon EventBridge
