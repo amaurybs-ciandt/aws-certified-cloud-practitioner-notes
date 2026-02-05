@@ -24,11 +24,11 @@
 - AWS Marketplace
 
 ## Computação:
-- AWS Batch
-- Amazon EC2
-- AWS Elastic Beanstalk
-- Amazon Lightsail
-- AWS Outposts
+- AWS Batch: for running batch jobs at any scale
+- Amazon EC2: for secure, resizable virtual servers
+- AWS Elastic Beanstalk: for deploying and scaling web apps automatically. (PaaS)
+- Amazon Lightsail: is for simple use cases (like a WordPress blog)
+- AWS Outposts: is the only one here for Hybrid Cloud (physical hardware in your own data center).
 
 ## Contêineres:
 - Amazon Elastic Container Registry (Amazon ECR)
