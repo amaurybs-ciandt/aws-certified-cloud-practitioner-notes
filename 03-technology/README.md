@@ -107,8 +107,22 @@
 - **AWS Global Accelerator:** for improving application availability and performance using the AWS global network
 - **AWS PrivateLink:** for providing private connectivity between VPCs and services without exposing data to the internet
 - **Amazon Route 53:** for highly available and scalable Domain Name System (DNS) web service
-- **AWS Transit Gateway:**
-- **Amazon VPC:**
-- **AWS VPN:**
-- **AWS Site-to-Site VPN:**
-- **AWS Client VPN:**
+- **AWS Transit Gateway:** for connecting thousands of VPCs and on-premises networks through a central hub
+- **Amazon VPC:** for provisioning logically isolated sections of the AWS Cloud (Virtual Network)
+- **AWS VPN:** for creating encrypted tunnels between your network and AWS
+- **AWS Site-to-Site VPN:** for connecting an entire on-premises office to your AWS VPC
+- **AWS Client VPN:** for connecting individual remote users to AWS resources securely
+
+## Sem servidor:
+- **AWS Fargate:** for running containers without managing servers or clusters
+- **AWS Lambda:** for running code in response to events without provisioning infrastructure
+
+## Armazenamento:
+- **AWS Backup:** for centralized and automated backup across AWS services
+- **Amazon Elastic Block Store (Amazon EBS):** for high-performance block storage for EC2 instances
+- **Amazon Elastic File System (Amazon EFS):** for scalable, shared file storage (NFS) for multiple instances
+- **AWS Elastic Disaster Recovery:** for minimizing downtime and data loss with fast recovery of applications
+- **Amazon FSx:** for launching high-performance file systems (Windows, Lustre, NetApp ONTAP)
+- **Amazon S3:** for scalable object storage for any type of data
+- **Amazon S3 Glacier:** for low-cost archive storage for long-term data retention
+- **AWS Storage Gateway:** for connecting on-premises applications to cloud-based storage
