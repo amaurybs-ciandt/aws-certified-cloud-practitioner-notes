@@ -24,7 +24,7 @@
 - aws application migration service: permite que mova aplicativos e servidores para a nuvem da aws / minimiza os riscos durante o processo. / economia de tempo.
 ![alt text](image.png)
 
-
+- aws database migration service (DMS): serviço de migração de banco de dados, facil e conomica, banco de dados locais para a aws, e da aws para fora da aws banco relacionais / data warehouse / oracle -> oracle / oracle -> amazon aurora.  
 
 
 
