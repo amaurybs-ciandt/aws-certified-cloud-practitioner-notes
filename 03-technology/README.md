@@ -92,10 +92,10 @@
 - AWS Well-Architected Tool: for measuring workloads against AWS architectural best practices
 
 ## Migração e transferência:
-- AWS Application Discovery Service: for planning migration by gathering information about on-premises data centers
-- AWS Application Migration Service: for automated lift-and-shift migration of physical and virtual servers
-- AWS Database Migration Service (AWS DMS): for migrating databases to AWS with minimal downtime
-- Migration Evaluator: for creating a business case and cost projections for AWS migration
+- **AWS Application Discovery Service:** for planning migration by gathering information about on-premises data centers
+- **AWS Application Migration Service:** for automated lift-and-shift migration of physical and virtual servers
+- **AWS Database Migration Service (AWS DMS):**  for migrating databases to AWS with minimal downtime
+- **Migration Evaluator:** for creating a business case and cost projections for AWS migration
 - AWS Migration Hub: for a single place to track the progress of migrations across AWS
 - AWS Schema Conversion Tool (AWS SCT): for converting database schemas between different engines
 - Família AWS Snow: for physical devices to migrate massive amounts of data or run edge computing
