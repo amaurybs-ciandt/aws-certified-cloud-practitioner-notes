@@ -26,6 +26,11 @@
 
 - aws database migration service (DMS): serviço de migração de banco de dados, facil e conomica, banco de dados locais para a aws, e da aws para fora da aws banco relacionais / data warehouse / oracle -> oracle / oracle -> amazon aurora.  
 
+- aws snow family: transferencia de dados offline de alta velocidade, migração de grandes volumes de dados, terabytes.
+  - aws snowball: armazena ate 80 terabytes de dados.
+  - aws snowball edge: petabyte-scale
+  - aws snowmobile: para migração de exabyte-scale de dados.
+
 
 
 ### Declaração de tarefa 1.4: Compreender os conceitos dos aspectos econômicos da nuvem.
