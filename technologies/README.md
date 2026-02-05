@@ -16,3 +16,59 @@
 ## Aplicações empresariais:
 - Amazon Connect
 - Amazon Simple Email Service (Amazon SES)
+
+## Gerenciamento financeiro da nuvem:
+- AWS Budgets
+- Relatórios de custo e uso da AWS
+- AWS Cost Explorer
+- AWS Marketplace
+
+## Computação:
+- AWS Batch
+- Amazon EC2
+- AWS Elastic Beanstalk
+- Amazon Lightsail
+- AWS Outposts
+
+## Contêineres:
+- Amazon Elastic Container Registry (Amazon ECR)
+- Amazon Elastic Container Service (Amazon ECS)
+- Amazon Elastic Kubernetes Service (Amazon EKS)
+
+## Banco de dados:
+- Amazon Aurora
+- Amazon DocumentDB
+- Amazon DynamoDB
+- Amazon ElastiCache
+- Amazon Neptune
+- Amazon RDS
+
+## Ferramentas do desenvolvedor:
+- AWS CLI
+- AWS CodeBuild
+- AWS CodePipeline
+- AWS X-Ray
+
+## Computação para usuário final:
+- Amazon AppStream 2.0
+- Amazon WorkSpaces
+- Amazon WorkSpaces Secure Browser
+
+## Web e dispositivos móveis de frontend:
+- AWS Amplify
+- AWS AppSync
+
+## Internet das Coisas (IoT):
+- AWS IoT Core
+
+## Machine learning:
+- Amazon Comprehend
+- Amazon Kendra
+- Amazon Lex
+- Amazon Polly
+- Amazon Q
+- Amazon Rekognition
+- Amazon SageMaker IA
+- Amazon Textract
+- Amazon Transcribe
+- Amazon Translate
