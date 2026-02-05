@@ -96,6 +96,19 @@
 - **AWS Application Migration Service:** for automated lift-and-shift migration of physical and virtual servers
 - **AWS Database Migration Service (AWS DMS):**  for migrating databases to AWS with minimal downtime
 - **Migration Evaluator:** for creating a business case and cost projections for AWS migration
-- AWS Migration Hub: for a single place to track the progress of migrations across AWS
-- AWS Schema Conversion Tool (AWS SCT): for converting database schemas between different engines
-- Família AWS Snow: for physical devices to migrate massive amounts of data or run edge computing
+- **AWS Migration Hub:** for a single place to track the progress of migrations across AWS
+- **AWS Schema Conversion Tool (AWS SCT):** for converting database schemas between different engines
+- **Família AWS Snow:** for physical devices to migrate massive amounts of data or run edge computing
+
+## Redes e entrega de conteúdo:
+- **Amazon API Gateway:** for creating, publishing, and securing APIs at any scale
+- **Amazon CloudFront:** for fast and secure content delivery (CDN) via edge locations
+- **AWS Direct Connect:** for a dedicated, private physical connection from on-premises to AWS
+- **AWS Global Accelerator:** for improving application availability and performance using the AWS global network
+- **AWS PrivateLink:** for providing private connectivity between VPCs and services without exposing data to the internet
+- **Amazon Route 53:** for highly available and scalable Domain Name System (DNS) web service
+- **AWS Transit Gateway:**
+- **Amazon VPC:**
+- **AWS VPN:**
+- **AWS Site-to-Site VPN:**
+- **AWS Client VPN:**
