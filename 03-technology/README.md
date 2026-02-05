@@ -72,3 +72,30 @@
 - Amazon Textract
 - Amazon Transcribe
 - Amazon Translate
+
+## Gerenciamento e governança:
+- AWS Auto Scaling: for maintaining application availability by scaling resources
+- AWS CloudFormation: for Infrastructure as Code (IaC) to model and set up resources
+- AWS CloudTrail: for tracking user activity and API usage (Audit)
+- Amazon CloudWatch: for monitoring metrics and application logs
+- AWS Compute Optimizer: for recommending optimal AWS resources to reduce costs
+- AWS Config: for assessing, auditing, and evaluating resource configurations (Compliance)
+- AWS Control Tower: for setting up and governing multi-account environments
+- AWS Health Dashboard: for personalized view of AWS service health and alerts
+- AWS License Manager: for managing software licenses from vendors like Microsoft and SAP
+- Console de Gerenciamento da AWS: for a web-based interface to manage AWS resources
+- AWS Organizations: for central management and consolidated billing of multiple accounts
+- AWS Service Catalog: for managing and deploying portfolios of approved IT services
+- Service Quotas: for viewing and requesting increases for AWS resource limits
+- AWS Systems Manager: for centralizing operational data and automating infrastructure tasks
+- AWS Trusted Advisor: for optimizing your account based on cost, performance, and security
+- AWS Well-Architected Tool: for measuring workloads against AWS architectural best practices
+
+## Migração e transferência:
+- AWS Application Discovery Service: for planning migration by gathering information about on-premises data centers
+- AWS Application Migration Service: for automated lift-and-shift migration of physical and virtual servers
+- AWS Database Migration Service (AWS DMS): for migrating databases to AWS with minimal downtime
+- Migration Evaluator: for creating a business case and cost projections for AWS migration
+- AWS Migration Hub: for a single place to track the progress of migrations across AWS
+- AWS Schema Conversion Tool (AWS SCT): for converting database schemas between different engines
+- Família AWS Snow: for physical devices to migrate massive amounts of data or run edge computing
