@@ -1,6 +1,5 @@
-## Domínio 1: Conceitos da nuvem (24% do conteúdo pontuado)
-
 ## Domínio 1: Conceitos de nuvem
+
 ### Declaração de tarefa 1.1: Definir os benefícios da nuvem AWS.
 
 
@@ -18,6 +17,12 @@
   - segurança
   - operações.
 
+- aws migration hug: ferramenta centralizada da aws para gerenciar o processo de migração para a nuvem / visibilidade centralizada durante o processo / integra co  outros servilos como DMS/SMS / avaliação de custos e desempenho / pode personalizar métricas,dashboads.
+
+- aws application discovery services: ferramenta que ajuda a bsucar detalhes do ambiente para migrar, ele simplifica a descoberta de recurso (on-premises) / fornece insights sobre recursos atuais.
+
+- aws application migration service: permite que mova aplicativos e servidores para a nuvem da aws / minimiza os riscos durante o processo. / economia de tempo.
+![alt text](image.png)
 
 
 
