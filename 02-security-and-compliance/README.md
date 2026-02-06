@@ -12,3 +12,14 @@
 
 - amazon guardduty: serviço de segurança da aws, usa aprendizado de máquina, detecção de anomalias e inteligência integrada
   - ele procura por sinais de tentativas de acesso, comportamento anomalo de rede.
+
+
+- aws shield: serviço contra ataque de ddos, ajuda a proteger e manter os serviços. detecta automaticamente, instancias aws ec2, balanceador de cargas.
+
+- aws security hub: painel centralizado para ver os alertas e dados de segurança das contas aws, consolida alertas de varios serviços, usa regras de praticas de segurança, padrões de segurança cis benchmark.
+
+- aws kms: serviço que ajuda gerar e armazenar chaves criptograficas, gerenciamento que controle e acessa protegendo os dados na aws.
+
+- amazon macie: usado para proteger com segurança a privacidade dos dados usando aprendizado de maquina em CPF e senhas por exemplo.
+
+- aws artifact:  portal de autoatendimento que fornece acessos a documentos de conformidade da aws, relatórios de audotoria, ISO, PCI DSS
