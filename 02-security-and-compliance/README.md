@@ -28,4 +28,4 @@
 
 - aws service catalog: ajuda a ter um controlde de catalagos de serviços para empresas, garante que recursos sejam usados de forma segura, prateleira virtual, maquinas virtuais, sistema de armazenamrnto, pode pegar os itens direto e começar a usar.
 
-- aws system manager: ferramenta que ajuda a simplificara gestão de infra na nuvem, ajuda na melehoria do gerenciamento da infra, garantindo mais segurança. teste
+- aws system manager: ferramenta que ajuda a simplificara gestão de infra na nuvem, ajuda na melehoria do gerenciamento da infra, garantindo mais segurança. teste. teste
