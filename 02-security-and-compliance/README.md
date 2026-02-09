@@ -23,3 +23,8 @@
 - amazon macie: usado para proteger com segurança a privacidade dos dados usando aprendizado de maquina em CPF e senhas por exemplo.
 
 - aws artifact:  portal de autoatendimento que fornece acessos a documentos de conformidade da aws, relatórios de audotoria, ISO, PCI DSS
+
+- aws cloudtrail: manter registro detalhado dentro da conta aws, login, que operação foi realizada dentro de um log que pode ser acessado. (log de eventos), pode criar alertas, integrar com outros recursos com base nos eventos.
+
+- aws service catalog: ajuda a ter um controlde de catalagos de serviços para empresas, garante que recursos sejam usados de forma segura, prateleira virtual, maquinas virtuais, sistema de armazenamrnto, pode pegar os itens direto e começar a usar.
+
