@@ -8,3 +8,5 @@ aws organization sé um serviço de gerenciamento de contas que permite organiza
 - integração com o serviço de IAM
 - integração com outros serviços da aws
 
+![alt text](image.png)
+
