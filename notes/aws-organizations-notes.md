@@ -10,3 +10,7 @@ aws organization sé um serviço de gerenciamento de contas que permite organiza
 
 ![alt text](image.png)
 
+## conta de gerenciamento master (org)
+- limitar quem tem acesso a essa conta de gerenciamento
+- revisar e controlar quem tem acesso
+- usar apenas para fim de gerenciamento, sem automação, sem uso para demandas.
