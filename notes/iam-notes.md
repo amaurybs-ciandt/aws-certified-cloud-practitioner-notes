@@ -16,3 +16,9 @@ teste
 - customer managed: criada pelo usuário, ideal para minimo privilegio.
 - inline policy: acopladas a um usuário, mas dificil de auditar.
 
+## RBAC
+sasas
+![alt text](image-3.png)
+
+sasasas
+![alt text](image-4.png)
